@@ -107,7 +107,7 @@
                                 <a href="courses-details.html">
                                     <img src="assets\images\courses\courses-1.jpg" alt="image" />
                                 </a>
-                                <div class="price">499</div>
+                                <div class="price">₹499</div>
                             </div>
                             <div class="courses-content">
                                 <div class="course-author d-flex align-items-center">
