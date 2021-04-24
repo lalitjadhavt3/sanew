@@ -38,6 +38,10 @@
                                     </ul>
                                 </li>
                                 <li class="nav-item">
+                                    <a href="contact.html" class="nav-link">Speaking</a>
+                                </li>
+
+                                <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         Productivity Mindset
                                     </a>
@@ -108,14 +112,15 @@
                                 <div class="option-item">
                                     <div class="search-box">
                                         <a href="https://linkedin.com">
-                                            <img src="whatsapp.png" style="width: 100%;" />
+                                            <img src="whatsapp.png" style="width: 75%;" />
                                         </a>
                                     </div>
                                 </div>
                                 <div class="option-item">
                                     <div class="navbar-btn">
-                                        <a href="online-booking.html" class="default-btn">Book Sagar <i class="flaticon-pointer"></i></a>
-                                        <a href="login.php" class="btn btn-success" style="background-color: #4caf50;padding: 15px 30px; border-color: #4caf50">Login</a>
+                                        <a href="online-booking.html" class="default-btn" style="padding: 7px 10px">Book Sagar
+                                        </a>
+                                        <a href="login.php" class="btn btn-success" style="background-color: #4caf50;padding: 7px 10px; border-color: #4caf50">Login</a>
                                     </div>
                                 </div>
                             </div>
@@ -137,6 +142,7 @@
                             <div class="others-options d-flex align-items-center">
                                 <div class="option-item">
                                     <div class="navbar-btn">
+                                        
                                         <a href="online-booking.html" class="default-btn">Book Sagar <i class="flaticon-pointer"></i></a>
                                         <a href="login.php" class="btn btn-success" style="background-color: #4caf50;padding: 15px 30px; border-color: #4caf50">Login</a>
                                     </div>
