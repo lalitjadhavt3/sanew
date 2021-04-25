@@ -193,6 +193,7 @@
                                 <ul class="courses-box-footer d-flex justify-content-between align-items-center">
                                     <li><i class="bx bxs-book"></i> 10 Weeks Long</li>
                                     <li><i class="bx bxs-group"></i> Available Now</li>
+                                    <li><i class="bx bxs-info-circle"></i> Information</li>
                                 </ul>
                             </div>
                         </div>
