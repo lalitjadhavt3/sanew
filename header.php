@@ -24,16 +24,16 @@
                                     </a>
                                     <ul class="dropdown-menu">
                                         <li class="nav-item">
-                                            <a href="index.html" class="nav-link ">Home Demo - 1</a>
+                                            <a href="index.html" class="nav-link ">About</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-2.html" class="nav-link">Home Demo - 2</a>
+                                            <a href="index-2.html" class="nav-link">Media</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-3.html" class="nav-link">Home Demo - 3</a>
+                                            <a href="index-3.html" class="nav-link">What Others Say</a>
                                         </li>
                                         <li class="nav-item">
-                                            <a href="index-4.html" class="nav-link">Home Demo - 4</a>
+                                            <a href="learning.php" class="nav-link">Learning Resources</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -92,15 +92,7 @@
                                         My Book
                                     </a>
                                 </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Blogs
-                                    </a>
-                                   </li>
-                                <li class="nav-item">
-                                    <a href="contact.html" class="nav-link">Contact</a>
-                                </li>
-                            </ul>
+                                </ul>
                             <div class="others-options d-flex align-items-center">
                                 <div class="option-item">
                                      <div class="cart-btn" style="top: 0px!important">
@@ -118,9 +110,8 @@
                                 </div>
                                 <div class="option-item">
                                     <div class="navbar-btn">
-                                        <a href="online-booking.html" class="default-btn" style="padding: 7px 10px">Book Sagar
+                                        <a href="login.html" class="default-btn" style="padding: 7px 30px">Login
                                         </a>
-                                        <a href="login.php" class="btn btn-success" style="background-color: #4caf50;padding: 7px 10px; border-color: #4caf50">Login</a>
                                     </div>
                                 </div>
                             </div>
