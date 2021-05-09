@@ -81,14 +81,14 @@
                </div>
                <div class="col-lg-3 col-sm-6">
                   <div class="single-features">
-                     <img src="assets/images/ebooks.jpg" style="width:95%">
-                     <h4 class="text-center">Ebooks</h4>
+                     <img src="assets/images/blogs.jpg" style="width:95%">
+                     <h4 class="text-center">Blogs</h4>
                   </div>
                </div>
                <div class="col-lg-3 col-sm-6">
                   <div class="single-features">
-                     <img src="assets/images/blogs.jpg" style="width:95%">
-                     <h4 class="text-center">Blogs</h4>
+                     <img src="assets/images/ebooks.jpg" style="width:95%">
+                     <h4 class="text-center">Ebooks</h4>
                   </div>
                </div>
             </div>
