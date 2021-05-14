@@ -17,11 +17,8 @@
       <link rel="stylesheet" href="assets\css\fancybox.min.css">
       <link rel="stylesheet" href="assets\css\style.css">
       <link rel="stylesheet" href="assets\css\responsive.css">
-<<<<<<< HEAD
-=======
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
       <title>Psylo - Life Coach & Psychologist HTML Template</title>
       <link rel="icon" type="image/png" href="assets\images\favicon.png">
    </head>
@@ -79,121 +76,28 @@
                     	</a>
                 	  </h5>
                     </div>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Watch Now</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="single-events-box">
                      <div class="image">
                         <a href="https://www.youtube.com/watch?v=yOKktWiRK10&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=3">
-<<<<<<< HEAD
                         <img src="assets\images\ep-2.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
                         </a>
                         <span class="date" style="background-color:cyan">01:02:17</span>
                      </div>
                      <div class="content" style="height:112px">
                         <h5><a href="https://www.youtube.com/watch?v=yOKktWiRK10&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=3"> Episode 2 : Introduction "Building Productivity Mindset</a></h5>
                      </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=pYelSmVVwhI&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=3">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-3.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">01:03:03</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=pYelSmVVwhI&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=3">
-                        Episode 3 - "Building Productivity Mindset (BPM)" - Standardization Improves Productivity
-                    	</a>
-                    	</h5>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=0UPw2vQzx3U&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=4">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-4.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">01:02:34</span>
-                     </div>
-                     <div class="content" style="height:112px">
-                        <h5><a href="https://www.youtube.com/watch?v=0UPw2vQzx3U&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=4">
-                        Episode 4 - 5s as an approach - Building Productivity Mindset</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=jiUD9H6XwKs&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=5">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-5.jpg" alt="image" style="height:250px">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image" style="height:250px">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">59:15</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=jiUD9H6XwKs&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=5">
-                        Episode 5 - Creating Accountability "Building Productivity mindset" BPM series by Sagar Amlani</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=CpS4DXZPEVU&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=6">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-6.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">01:05:08</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=CpS4DXZPEVU&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=6">
-                        Episode 6 - Building Productivity mindset (BPM) "Can Quality be Inspected" with Sagar Amlani
-                        </a>
-                       </h5>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=OX9pY0WKRrA&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=7">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-7.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">46:47</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=OX9pY0WKRrA&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=7">
-                        Episode 7 - First Time Right, Series - Building Productivity mindset
-                    	</a>
-                	   </h5>
-<<<<<<< HEAD
-                     </div>
-=======
                      <div class="row">
                         <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
                            <button class="btn btn-info">Watch Now</button>
@@ -203,109 +107,110 @@
                            <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
                         </div>
                      </div>
-                     </div>
-
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="single-events-box">
                      <div class="image">
-                        <a href="https://www.youtube.com/watch?v=JT6_sMutHVg&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=8">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-8.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
+                        <a href="https://www.youtube.com/watch?v=pYelSmVVwhI&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=3">
+                        <img src="assets\images\ep-3.jpg" alt="image">
                         </a>
-                        <span class="date" style="background-color:cyan">57:10</span>
+                        <span class="date" style="background-color:cyan">01:03:03</span>
                      </div>
                      <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=JT6_sMutHVg&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=8">
-                        Episode 8 : Mistake Proofing (Poka - Yoke) - Building Productivity Mindset</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=z5EQD7ROiBA&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=9">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-9.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">01:07:28</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=z5EQD7ROiBA&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=9">
-                        Episode 9 : Data Intelligence , Series Building Productivity mindset</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=d9OpizKFhPo&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=10">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-10.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">47:28</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=d9OpizKFhPo&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=10">
-                        Episode 10 : Motivation as a technique. Series "Building Productivity Mindset"
+                        <h5><a href="https://www.youtube.com/watch?v=pYelSmVVwhI&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=3">
+                        Episode 3 - "Building Productivity Mindset (BPM)" - Standardization Improves Productivity
                     	</a>
                     	</h5>
                      </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="single-events-box">
-                     <div class="image">
-                        <a href="https://www.youtube.com/watch?v=Hosv-64LjH4">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-11.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
-                        </a>
-                        <span class="date" style="background-color:cyan">01:12:40</span>
-                     </div>
-                     <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=Hosv-64LjH4">
-                        Episode 11 : Employee Engagement. Series "Building Productivity Mindset"
-                    	</a>
-                    	</h5>
+                     <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Watch Now</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
                      </div>
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
                   <div class="single-events-box">
                      <div class="image">
-                        <a href="https://www.youtube.com/watch?v=t-1N50nEMaQ">
-<<<<<<< HEAD
-                        <img src="assets\images\ep-12.jpg" alt="image">
-=======
-                        <img src="assets\images\ep-1.jpg" alt="image">
->>>>>>> cb0de211b1516b5920bee676eb865d19724fca87
+                        <a href="https://www.youtube.com/watch?v=0UPw2vQzx3U&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=4">
+                        <img src="assets\images\ep-4.jpg" alt="image">
                         </a>
-                        <span class="date" style="background-color:cyan">47:02</span>
+                        <span class="date" style="background-color:cyan">01:02:34</span>
+                     </div>
+                     <div class="content" style="height:112px">
+                        <h5><a href="https://www.youtube.com/watch?v=0UPw2vQzx3U&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=4">
+                        Episode 4 - 5s as an approach - Building Productivity Mindset</a></h5>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Watch Now</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="single-events-box">
+                     <div class="image">
+                        <a href="https://www.youtube.com/watch?v=jiUD9H6XwKs&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=5">
+                        <img src="assets\images\ep-5.jpg" alt="image" style="height:250px">
+                        </a>
+                        <span class="date" style="background-color:cyan">59:15</span>
                      </div>
                      <div class="content">
-                        <h5><a href="https://www.youtube.com/watch?v=t-1N50nEMaQ">
-                        Episode 12 : Autonomus work culture, Series Building Productivity Mindset
-                    	</a>
-                    	</h5>
+                        <h5><a href="https://www.youtube.com/watch?v=jiUD9H6XwKs&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=5">
+                        Episode 5 - Creating Accountability "Building Productivity mindset" BPM series by Sagar Amlani</a></h5>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Watch Now</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="single-events-box">
+                     <div class="image">
+                        <a href="https://www.youtube.com/watch?v=CpS4DXZPEVU&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=6">
+                        <img src="assets\images\ep-6.jpg" alt="image">
+                        </a>
+                        <span class="date" style="background-color:cyan">01:05:08</span>
+                     </div>
+                     <div class="content">
+                        <h5><a href="https://www.youtube.com/watch?v=CpS4DXZPEVU&list=PLWABdYKALo3cVyqzoxGSUvYafgIUKdrsb&index=6">
+                        Episode 6 - Building Productivity mindset (BPM) "Can Quality be Inspected" with Sagar Amlani
+                        </a>
+                       </h5>
+                     </div>
+                     <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Watch Now</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
                      </div>
                   </div>
                </div>
             </div>
          </div>
+         <div class="book-store-btn">
+                    <a href="#" class="default-btn">Load More <i class="flaticon-spinner-of-dots"></i></a>
+                </div>
+            </div>
       </section>
       <div class="subscribe-area">
          <div class="container">
