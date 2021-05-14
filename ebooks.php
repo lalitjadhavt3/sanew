@@ -31,6 +31,7 @@
         <link rel="stylesheet" href="assets\css\style.css" />
 
         <link rel="stylesheet" href="assets\css\responsive.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <title>Psylo - Life Coach & Psychologist HTML Template</title>
         <link rel="icon" type="image/png" href="assets\images\favicon.png" />
         
@@ -68,7 +69,13 @@
         </div>
 
     
-
+        <div class="page-banner-with-full-image item-bg2">
+         <div class="container">
+            <div class="page-banner-content-two">
+               <h2>Ebooks</h2>
+            </div>
+         </div>
+      </div>
         <section class="products-area ptb-100">
             <div class="container">
                 <div class="psylo-grid-sorting row align-items-center">
@@ -104,9 +111,16 @@
                                 <h3>
                                     <a href="products-details.html">Become Confident Everyday</a>
                                 </h3>
-                                <span style="float:left">Price</span>
-                                <span style="float:right">More info</span>
                             </div>
+                            <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Price</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
@@ -121,9 +135,16 @@
                                 <h3>
                                     <a href="products-details.html">Psychology Is The Best Power</a>
                                 </h3>
-                               <span style="float:left">Price</span>
-                                <span style="float:right">More info</span>
                             </div>
+                            <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Price</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
@@ -138,10 +159,17 @@
                                 <h3>
                                     <a href="products-details.html">Be The Owner Of Happiness</a>
                                 </h3>
-                                <span style="float:left">Price</span>
-                                <span style="float:right">More info</span>
                             </div>
-                        </div>150
+                            <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Price</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
+                        </div>
                     </div>
                     <div class="col-lg-3 col-md-6">
                         <div class="products-item">
@@ -156,9 +184,16 @@
                                     <a href="products-details.html">How To Become Happier</a>
                                 </h3>
                                  </h3>
-                                <span style="float:left">Price</span>
-                                <span style="float:right">More info</span>
                             </div>
+                            <div class="row">
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="width: 49%">
+                           <button class="btn btn-info">Price</button>
+                     
+                        </div>
+                        <div class="col-md-6 col-sm-6 col-xs-6" style="text-align: end;width: 49%">
+                           <button class="btn btn-danger"><i class="fa fa-info"></i>  More Info</button>
+                        </div>
+                     </div>
                             </div>
                         </div>
                     </div>
