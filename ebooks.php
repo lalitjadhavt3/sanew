@@ -33,6 +33,7 @@
         <link rel="stylesheet" href="assets\css\responsive.css" />
         <title>Psylo - Life Coach & Psychologist HTML Template</title>
         <link rel="icon" type="image/png" href="assets\images\favicon.png" />
+        
     </head>
     <body>
         <div class="preloader-area">
@@ -103,7 +104,8 @@
                                 <h3>
                                     <a href="products-details.html">Become Confident Everyday</a>
                                 </h3>
-                                <span>Price</span>
+                                <span style="float:left">Price</span>
+                                <span style="float:right">More info</span>
                             </div>
                         </div>
                     </div>
@@ -119,7 +121,8 @@
                                 <h3>
                                     <a href="products-details.html">Psychology Is The Best Power</a>
                                 </h3>
-                                <span>Price</span>
+                               <span style="float:left">Price</span>
+                                <span style="float:right">More info</span>
                             </div>
                         </div>
                     </div>
@@ -135,7 +138,8 @@
                                 <h3>
                                     <a href="products-details.html">Be The Owner Of Happiness</a>
                                 </h3>
-                                <span>Price</span>
+                                <span style="float:left">Price</span>
+                                <span style="float:right">More info</span>
                             </div>
                         </div>150
                     </div>
@@ -151,7 +155,10 @@
                                 <h3>
                                     <a href="products-details.html">How To Become Happier</a>
                                 </h3>
-                                <span>Price</span>
+                                 </h3>
+                                <span style="float:left">Price</span>
+                                <span style="float:right">More info</span>
+                            </div>
                             </div>
                         </div>
                     </div>
