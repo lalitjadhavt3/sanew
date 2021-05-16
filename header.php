@@ -82,16 +82,17 @@
                                         </li>
                                      </ul>
                                 </li>
-                                <li class="nav-item">
-                                    <a href="#" class="nav-link">
-                                        Write To Sagar
-                                    </a>
-                                   </li>
+                                
                                 <li class="nav-item">
                                     <a href="#" class="nav-link">
                                         My Book
                                     </a>
                                 </li>
+                                <li class="nav-item">
+                                    <a href="#" class="nav-link">
+                                        Write To Sagar
+                                    </a>
+                                   </li>
                                 </ul>
                             <div class="others-options d-flex align-items-center">
                                 <div class="option-item">
